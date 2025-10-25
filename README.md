@@ -5,7 +5,7 @@
 
 <details>
 <summary>Dark</summary>
-<img src="assets/zed-pro-dark_blur.png"/>
+<img src="./assets/zed-pro-dark_blur.png"/>
 </details>
 <details>
 <summary>Light</summary>
