@@ -7,15 +7,6 @@
       "name": "Zed pro-dark (blur)",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#caa8e966",
-          "#bdc0f266",
-          "#92c4e166",
-          "#add19f66",
-          "#dfcaa466",
-          "#e7a98f66",
-          "#e1929b66"
-        ],
         "background.appearance": "blurred",
         "border": "#41455915",
         "border.variant": "#00000020",
