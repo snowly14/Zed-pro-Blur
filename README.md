@@ -4,12 +4,11 @@
 
 ## 📸 Previews
 
-<details>
+
   <summary>🌙 Dark</summary>
   <p align="center">
     <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
   </p>
-</details>
 
 <details>
   <summary>☀️ Light</summary>
