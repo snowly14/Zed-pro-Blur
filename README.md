@@ -4,13 +4,13 @@
 
 ## 📸 Previews
 
-<details>
-  <summary>🌙 Dark pro Blur</summary>
-  <p align="center">
-    <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
-  </p>
-</details>
+<!-- Image toujours visible -->
+<p align="center">
+  <strong>🌙 Dark Pro Blur</strong><br>
+  <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
+</p>
 
+<!-- Aperçu déroulable -->
 <details>
   <summary>☀️ Light</summary>
   <p align="center">
