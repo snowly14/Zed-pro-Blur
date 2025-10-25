@@ -5,21 +5,18 @@
 
 <!-- SOUS-TITRE -->
 <h2 align="left" ">
-  Zed Pro Blur
+  Zed Pro Dark Blur
 </h2>
 
 <!-- IMAGE PRINCIPALE -->
 <p align="center" ;">
   <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
 </p>
-
+------
 <!-- APERÇU SECONDAIRE -->
-<details>
-  <summary style="font-size: 1.2em;">☀️ Light</summary>
-  <p align="center" style="margin-top: 1em;">
-    <em>Coming soon...</em>
-  </p>
-</details>
+<h2 align="left" ">
+  Zed Pro Light Blur, comming soon...
+</h2>
 
 <!-- FOOTER -->
 <hr>
