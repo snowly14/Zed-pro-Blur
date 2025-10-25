@@ -4,7 +4,7 @@
 </h1>
 
 <!-- SOUS-TITRE -->
-<h2 align="center" style="font-size: 2em; margin-top: 0;">
+<h2 align="center" style="font-size: 3em; margin-top: 0;">
   Zed Pro Blur
 </h2>
 
