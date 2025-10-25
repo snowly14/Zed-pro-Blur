@@ -12,7 +12,7 @@
 <p align="center">
   <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
 </p>
-------
+<hr>
 <!-- APERÇU SECONDAIRE -->
 <h2 align="left">
   Zed Pro Light Blur, comming soon...
