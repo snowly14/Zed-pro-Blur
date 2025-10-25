@@ -1,5 +1,5 @@
 <!-- TITRE PRINCIPAL -->
-<h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">
+<h1 align="center">
   Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
 </h1>
 
