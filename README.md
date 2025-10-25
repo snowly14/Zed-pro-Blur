@@ -1,25 +1,28 @@
-<h3 align="center">
-  Zed Pro Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
-</h3>
+<!-- TITRE PRINCIPAL -->
+<h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">
+  Zed Pro
+</h1>
 
-## 📸 Previews
+<!-- SOUS-TITRE -->
+<h2 align="center" style="font-size: 2em; margin-top: 0;">
+  Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
+</h2>
 
-<!-- Image toujours visible -->
-<p align="center">
-  <strong>🌙 Dark Pro Blur</strong><br>
+<!-- IMAGE PRINCIPALE -->
+<p align="center" style="margin-top: 1em;">
   <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
 </p>
 
-<!-- Aperçu déroulable -->
+<!-- APERÇU SECONDAIRE -->
 <details>
-  <summary>☀️ Light</summary>
-  <p align="center">
+  <summary style="font-size: 1.2em;">☀️ Light</summary>
+  <p align="center" style="margin-top: 1em;">
     <em>Coming soon...</em>
   </p>
 </details>
 
----
-
-<p align="center">
+<!-- FOOTER -->
+<hr>
+<p align="center" style="margin-top: 1em;">
   © 2025 <strong>Zed Pro</strong>. All rights reserved.
 </p>
