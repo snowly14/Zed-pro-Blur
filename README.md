@@ -1,20 +1,25 @@
 <h3 align="center">
-	Zed pro Theme for <a href="https://zed.dev/">Zed</a>
+  Zed Pro Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
 </h3>
-## Previews
+
+## 📸 Previews
 
 <details>
-<summary>Dark</summary>
-<img src="./assets/zed-pro-dark_blur.png"/>
-</details>
-<details>
-<summary>Light</summary>
-<p aligne="left">
-    Coming Soon...
-</p>
+  <summary>🌙 Dark</summary>
+  <p align="center">
+    <img src="./assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
+  </p>
 </details>
 
+<details>
+  <summary>☀️ Light</summary>
+  <p align="center">
+    <em>Coming soon...</em>
+  </p>
+</details>
+
+---
 
 <p align="center">
-	Copyright (c) 2025 Zed Pro
+  © 2025 <strong>Zed Pro</strong>. All rights reserved.
 </p>
