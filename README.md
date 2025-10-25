@@ -9,7 +9,7 @@
 </h2>
 
 <!-- IMAGE PRINCIPALE -->
-<p align="center" style="margin-top: 1em;">
+<p align="center" ;">
   <img src="Zed-pro_blur/assets/zed-pro-dark_blur.png" alt="Zed Pro Dark Preview" width="800"/>
 </p>
 
