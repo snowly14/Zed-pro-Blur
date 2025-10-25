@@ -1,0 +1,6 @@
+id = "zed-pro"
+name = "Zed pro Blur"
+schema_version = 1
+version = "1.4"
+authors = ["Hardy Gaston <beep10bop@icloud.com>"]
+description = "Zed pro themes with blur, light theme soon..."
