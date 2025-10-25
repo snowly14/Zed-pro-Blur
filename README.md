@@ -1,11 +1,11 @@
 <!-- TITRE PRINCIPAL -->
 <h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">
-  Zed Pro
+  Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
 </h1>
 
 <!-- SOUS-TITRE -->
 <h2 align="center" style="font-size: 2em; margin-top: 0;">
-  Theme for <a href="https://zed.dev/" target="_blank">Zed</a>
+  Zed Pro Blur
 </h2>
 
 <!-- IMAGE PRINCIPALE -->
