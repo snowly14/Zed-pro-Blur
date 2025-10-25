@@ -15,7 +15,7 @@
         "border.disabled": "#737994",
         "elevated_surface.background": "#292c3c",
         "surface.background": "#303446b0",
-        "background": "#292c3cd0",
+        "background": "#292c3c90",
         "element.background": "#00000020",
         "element.hover": "#414559",
         "element.active": "#00000000",
@@ -151,7 +151,7 @@
           {
             "cursor": "#74ade8ff",
             "background": "#74ade8ff",
-            "selection": "#00000010"
+            "selection": "#abb2bf21"
           },
           {
             "cursor": "#be5046ff",
@@ -406,7 +406,9 @@
             "text": "#d19a66",
             "italic": true
           },
-          "plain": { "text": "#ccc" },
+          "plain": {
+            "text": "#ccc"
+          },
           "hint": {
             "color": "#626880",
             "font_style": "italic",
